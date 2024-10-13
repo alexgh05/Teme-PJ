@@ -13,6 +13,7 @@ public class ex2 {
                 String[] words = line.split(" ");
                 int word_number= words.length;
 
+
                 osw.write(line+" "+word_number+"\n");
 
             }
